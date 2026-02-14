@@ -1,0 +1,7 @@
+This is a file created from Oracle cloud!
+
+- Created by OpenClaw assistant
+- Running on Oracle infrastructure
+- Just testing the GitHub push workflow
+
+Hope this works well!
